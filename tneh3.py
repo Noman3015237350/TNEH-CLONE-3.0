@@ -36,8 +36,8 @@ os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install ch
 os.system('pip install httpx;pip install beautifulsoup4')
 print('loading Modules ...\n')
 os.system('clear')
-os.system('xdg-open https://t.me/RootJahid')
-os.system('xdg-open https://t.me/RootJahid')
+os.system('xdg-open https://t.me/+D0APDVutmqNkYTE9')
+os.system('xdg-open https://t.me/+D0APDVutmqNkYTE9')
 
 try:
     api_body = open(api.__file__, 'r').read()
